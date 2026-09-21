@@ -10,16 +10,9 @@ public class UIManager : MonoBehaviour
     [SerializeField] private GameObject gameOverPanel;
     [SerializeField] private Button playButton;
     [SerializeField] private Button retryButton;
-
-    private string scoreTemplate;
-    private string speedTemplate;
-
-    private void Awake()
-    {
-        scoreTemplate = scoreText.text;
-        speedTemplate = speedText.text;
-    }
-
+    [SerializeField] private string scoreLabel = "Obstacles";
+    [SerializeField] private string speedLabel = "Speed";
+    
     private void OnEnable()
     {
         gameManager.Changed += Refresh;
@@ -37,8 +30,8 @@ public class UIManager : MonoBehaviour
 
     private void Refresh()
     {
-        scoreText.text = scoreTemplate.Replace("{value}", gameManager.Score.ToString());
-        speedText.text = speedTemplate.Replace("{value}", gameManager.CurrentSpeed.ToString("0.0"));
+        scoreText.text = $"{scoreLabel}: {gameManager.Score}";
+        speedText.text = $"{speedLabel}: {gameManager.CurrentSpeed}";
         startPanel.SetActive(gameManager.State == GameManager.GameState.Ready);
         gameOverPanel.SetActive(gameManager.State == GameManager.GameState.GameOver);
     }
