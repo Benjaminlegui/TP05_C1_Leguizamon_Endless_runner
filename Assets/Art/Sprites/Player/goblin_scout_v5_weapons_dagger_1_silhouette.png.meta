@@ -1,0 +1,4240 @@
+fileFormatVersion: 2
+guid: 531b6eb9528a459458c120972c917e72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7479257866625478350
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_0
+  - first:
+      213: -5736996530453280047
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_1
+  - first:
+      213: 435278009657934794
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_2
+  - first:
+      213: -7654236930426433750
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_3
+  - first:
+      213: -6737055827418472985
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_4
+  - first:
+      213: 1376999922063313554
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_5
+  - first:
+      213: -6666806410245663424
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_6
+  - first:
+      213: -5542224449169367388
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_7
+  - first:
+      213: 5538241721995090597
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_8
+  - first:
+      213: -358202434567090125
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_9
+  - first:
+      213: 2112657204322487995
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_10
+  - first:
+      213: 8336068409171756807
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_11
+  - first:
+      213: -6823176748355932367
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_12
+  - first:
+      213: -2713607906331898874
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_13
+  - first:
+      213: -8647906347059558003
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_14
+  - first:
+      213: -841526633598840643
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_15
+  - first:
+      213: -1766470061887690548
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_16
+  - first:
+      213: -371795268095643475
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_17
+  - first:
+      213: 8855141483102025526
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_18
+  - first:
+      213: 1614221690213079029
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_19
+  - first:
+      213: 8736442124035392504
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_20
+  - first:
+      213: -4274776170672958890
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_21
+  - first:
+      213: 1423976307750832691
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_22
+  - first:
+      213: -9124498675691305740
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_23
+  - first:
+      213: 3931344041070728745
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_24
+  - first:
+      213: 3830161097257889602
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_25
+  - first:
+      213: -2977464137685810575
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_26
+  - first:
+      213: 3911297254824964757
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_27
+  - first:
+      213: -778237619736839648
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_28
+  - first:
+      213: -4951068301771966927
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_29
+  - first:
+      213: 8065894729186405255
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_30
+  - first:
+      213: -7315194779961977474
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_31
+  - first:
+      213: 5909617021410739323
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_32
+  - first:
+      213: 7609575908445561556
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_33
+  - first:
+      213: 3807444678884562823
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_34
+  - first:
+      213: -8436742271224579796
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_35
+  - first:
+      213: 4865515389518276345
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_36
+  - first:
+      213: -6417703651980091245
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_37
+  - first:
+      213: 7685930522514296807
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_38
+  - first:
+      213: 6132457590001392631
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_39
+  - first:
+      213: -8238590007584537888
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_40
+  - first:
+      213: -1013248881092714607
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_41
+  - first:
+      213: 225629240225453804
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_42
+  - first:
+      213: 2015478299646652927
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_43
+  - first:
+      213: -2689876675960188639
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_44
+  - first:
+      213: -1965202677566663673
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_45
+  - first:
+      213: -648198506901645342
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_46
+  - first:
+      213: -6709281242093385499
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_47
+  - first:
+      213: -6222198904098136938
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_48
+  - first:
+      213: -349972675308836069
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_49
+  - first:
+      213: -4517294876385784301
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_50
+  - first:
+      213: 706630164158895947
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_51
+  - first:
+      213: -2369935645707946787
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_52
+  - first:
+      213: 1265496569915743764
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_53
+  - first:
+      213: -7537615330316216767
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_54
+  - first:
+      213: 8076158980112636008
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_55
+  - first:
+      213: 4617162739967650336
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_56
+  - first:
+      213: 920487652524069391
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_57
+  - first:
+      213: 8464267823719842545
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_58
+  - first:
+      213: -2773823266409563182
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_59
+  - first:
+      213: 246205559624638990
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_60
+  - first:
+      213: 2747521525949317648
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_61
+  - first:
+      213: 5354090997090856528
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_62
+  - first:
+      213: -5447232656979429470
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_63
+  - first:
+      213: -5611770327412763735
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_64
+  - first:
+      213: 1767575270224398325
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_65
+  - first:
+      213: 6504560743312435620
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_66
+  - first:
+      213: 5666667818713435602
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_67
+  - first:
+      213: -3459798176964861719
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_68
+  - first:
+      213: -5713780018608436415
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_69
+  - first:
+      213: -3518230170638329303
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_70
+  - first:
+      213: 8987855125640393613
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_71
+  - first:
+      213: -8099377605726455462
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_72
+  - first:
+      213: 7471539872254520497
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_73
+  - first:
+      213: 7294764786119090016
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_74
+  - first:
+      213: -3332692466834139707
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_75
+  - first:
+      213: -7567093192981473077
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_76
+  - first:
+      213: 505580250741628916
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_77
+  - first:
+      213: 7370755792404377166
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_78
+  - first:
+      213: -11156304165126136
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_79
+  - first:
+      213: 7089793506271520031
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_80
+  - first:
+      213: 250274142758376519
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_81
+  - first:
+      213: 2255817982849319518
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_82
+  - first:
+      213: 2095394043870191426
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_83
+  - first:
+      213: -4621968030077290137
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_84
+  - first:
+      213: -2142979394300316547
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_85
+  - first:
+      213: 3076667259707422386
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_86
+  - first:
+      213: -5965940453681290090
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_87
+  - first:
+      213: -272447987049822615
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_88
+  - first:
+      213: 2917124477039009632
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_89
+  - first:
+      213: -7185174347523052731
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_90
+  - first:
+      213: 8563138117017336983
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_91
+  - first:
+      213: -2978296321384896455
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_92
+  - first:
+      213: -1028734295633699404
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_93
+  - first:
+      213: -7296388134425534078
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_94
+  - first:
+      213: -7955570786381652231
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_95
+  - first:
+      213: -9139144999845916356
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_96
+  - first:
+      213: 8350651381941696584
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_97
+  - first:
+      213: -615245459743902989
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_98
+  - first:
+      213: 2005938248985811399
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_99
+  - first:
+      213: -7866054681531026606
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_100
+  - first:
+      213: 9200826675379128770
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_101
+  - first:
+      213: -4858502326098021999
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_102
+  - first:
+      213: -8573517378416320095
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_103
+  - first:
+      213: -4788299250253092521
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_104
+  - first:
+      213: 5708717338353110332
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_105
+  - first:
+      213: 3996457392003558093
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_106
+  - first:
+      213: 4237451726390150594
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_107
+  - first:
+      213: 5501603758623433039
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_108
+  - first:
+      213: -2296769446124104954
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_109
+  - first:
+      213: 7010887024071893458
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_110
+  - first:
+      213: 7425257213066242378
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_111
+  - first:
+      213: -2865994482346650561
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_112
+  - first:
+      213: -3800503128239012792
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_113
+  - first:
+      213: 4414352733099412559
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_114
+  - first:
+      213: -6461533081593035038
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_115
+  - first:
+      213: -2729066870582658261
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_116
+  - first:
+      213: 637797447063478801
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_117
+  - first:
+      213: -6907397720477130718
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_118
+  - first:
+      213: -1563012127910229229
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_119
+  - first:
+      213: -5548675628626100779
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_120
+  - first:
+      213: 1724243714419365386
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_121
+  - first:
+      213: 2282060066345866386
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_122
+  - first:
+      213: -3869430785564057986
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_123
+  - first:
+      213: 6310874707172611178
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_124
+  - first:
+      213: -7530347545347674844
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_125
+  - first:
+      213: -6187627687737138551
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_126
+  - first:
+      213: -4035269945831243957
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_127
+  - first:
+      213: -5978468176756156265
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_128
+  - first:
+      213: 3906014731233346050
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_129
+  - first:
+      213: -1658322329157452252
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_130
+  - first:
+      213: 7821812235490618670
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_131
+  - first:
+      213: 8407335830583881654
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_132
+  - first:
+      213: 622083836435869668
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_133
+  - first:
+      213: -7972932389039928885
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_134
+  - first:
+      213: -4896811271383796723
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_135
+  - first:
+      213: -402838355406268920
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_136
+  - first:
+      213: 1094374086007089892
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_137
+  - first:
+      213: -3375389579175011502
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_138
+  - first:
+      213: 3412961115200071937
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_139
+  - first:
+      213: -8456767932098757583
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_140
+  - first:
+      213: 4998219099025929861
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_141
+  - first:
+      213: 645871239348859039
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_142
+  - first:
+      213: -901900762827386020
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_143
+  - first:
+      213: 7139413075989060504
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_144
+  - first:
+      213: -381899275826355270
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_145
+  - first:
+      213: 7668498840756900468
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_146
+  - first:
+      213: 5503009786055547185
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_147
+  - first:
+      213: -1677094035430402934
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_148
+  - first:
+      213: -8138025754924365980
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_149
+  - first:
+      213: -2601931858376188772
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_150
+  - first:
+      213: 7939499910606708419
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_151
+  - first:
+      213: -8884125943055269389
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_152
+  - first:
+      213: -2478065501974515047
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_153
+  - first:
+      213: -3138676459534563131
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_154
+  - first:
+      213: 3949487725540637731
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_155
+  - first:
+      213: -6790378134378063027
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_156
+  - first:
+      213: 7985666444562786497
+    second: goblin_scout_v5_weapons_dagger_1_silhouette_157
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311e3cd896543890800000000000000
+      internalID: -7479257866625478350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da0fac2d081260b0800000000000000
+      internalID: -5736996530453280047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac343382b0b6a0600800000000000000
+      internalID: 435278009657934794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f814fc010b6c590800000000000000
+      internalID: -7654236930426433750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed1fbe5b6b2182a0800000000000000
+      internalID: -6737055827418472985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a035a22261c1310800000000000000
+      internalID: 1376999922063313554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045920364eeba73a0800000000000000
+      internalID: -6666806410245663424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae56c93a301613b0800000000000000
+      internalID: -5542224449169367388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad3c7d089cbdc40800000000000000
+      internalID: 5538241721995090597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d2f998c8670bf0800000000000000
+      internalID: -358202434567090125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbecfc3b88aa15d10800000000000000
+      internalID: 2112657204322487995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707c9004d0aafa370800000000000000
+      internalID: 8336068409171756807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2a8ae5e43f41a0800000000000000
+      internalID: -6823176748355932367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c456b8cf3575ad0800000000000000
+      internalID: -2713607906331898874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d894ba4fef67cf780800000000000000
+      internalID: -8647906347059558003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db09f4f3cfb4254f0800000000000000
+      internalID: -841526633598840643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc862de76dc3c77e0800000000000000
+      internalID: -1766470061887690548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0fcfb6c2e17daf0800000000000000
+      internalID: -371795268095643475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6373f182348c3ea70800000000000000
+      internalID: 8855141483102025526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f791e1231ed66610800000000000000
+      internalID: 1614221690213079029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f383ebf2d31e3970800000000000000
+      internalID: 8736442124035392504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652dbb4b8b1fca4c0800000000000000
+      internalID: -4274776170672958890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a8f0848eaf2c310800000000000000
+      internalID: 1423976307750832691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c5e15cc44f5180800000000000000
+      internalID: -9124498675691305740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9269ed18390fe8630800000000000000
+      internalID: 3931344041070728745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fa3929937772530800000000000000
+      internalID: 3830161097257889602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172c5cd542ceda6d0800000000000000
+      internalID: -2977464137685810575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5927dcc5128b74630800000000000000
+      internalID: 3911297254824964757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a7db412052335f0800000000000000
+      internalID: -778237619736839648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1367f268c954a4bb0800000000000000
+      internalID: -4951068301771966927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be9d07580dfef60800000000000000
+      internalID: 8065894729186405255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75139dea153b7a90800000000000000
+      internalID: -7315194779961977474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740ac7de5d230250800000000000000
+      internalID: 5909617021410739323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a442b8f4aa9960800000000000000
+      internalID: 7609575908445561556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7879dd243c2c6d430800000000000000
+      internalID: 3807444678884562823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29f226aa9baaea80800000000000000
+      internalID: -8436742271224579796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ee69d778c58340800000000000000
+      internalID: 4865515389518276345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390effde78cbfe6a0800000000000000
+      internalID: -6417703651980091245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef0cc2a619e9aa60800000000000000
+      internalID: 7685930522514296807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb5e2cdfadda1550800000000000000
+      internalID: 6132457590001392631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e247dbb906aaad80800000000000000
+      internalID: -8238590007584537888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f1865d28730f1f0800000000000000
+      internalID: -1013248881092714607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6549a3998912300800000000000000
+      internalID: 225629240225453804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff172f6c5da68fb10800000000000000
+      internalID: 2015478299646652927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d8cf2a63abaad0800000000000000
+      internalID: -2689876675960188639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7041efba3923ab4e0800000000000000
+      internalID: -1965202677566663673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7503c64e22107f0800000000000000
+      internalID: -648198506901645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e805d2f148d3e2a0800000000000000
+      internalID: -6709281242093385499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd767301f46a9a0800000000000000
+      internalID: -6222198904098136938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1baf1fb4b5a42bf0800000000000000
+      internalID: -349972675308836069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e455b5e385f41c0800000000000000
+      internalID: -4517294876385784301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475442f3647ec900800000000000000
+      internalID: 706630164158895947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4ba01361c4c1fd0800000000000000
+      internalID: -2369935645707946787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e9d4aec62ff8110800000000000000
+      internalID: 1265496569915743764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14696f60bc2056790800000000000000
+      internalID: -7537615330316216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868d1379dc7441070800000000000000
+      internalID: 8076158980112636008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae0f99c05731040800000000000000
+      internalID: 4617162739967650336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0294dc94aa36cc00800000000000000
+      internalID: 920487652524069391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f207947dbe177570800000000000000
+      internalID: 8464267823719842545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbb1ff7f666189d0800000000000000
+      internalID: -2773823266409563182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02272be6a2ba6300800000000000000
+      internalID: 246205559624638990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012c2f65548212620800000000000000
+      internalID: 2747521525949317648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ea7b8056d8d4a40800000000000000
+      internalID: 5354090997090856528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a775d752ca8764b0800000000000000
+      internalID: -5447232656979429470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a31c71ae9cfe12b0800000000000000
+      internalID: -5611770327412763735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78d7fd750b78810800000000000000
+      internalID: 1767575270224398325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a61d8887d44a50800000000000000
+      internalID: 6504560743312435620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4d8a9b5c04ae40800000000000000
+      internalID: 5666667818713435602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0277b83e35cffc0800000000000000
+      internalID: -3459798176964861719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b8e12985394b0b0800000000000000
+      internalID: -5713780018608436415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a5a09dc4cbc2fc0800000000000000
+      internalID: -3518230170638329303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833878fd964bbc70800000000000000
+      internalID: 8987855125640393613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59bbecdafa399f80800000000000000
+      internalID: -8099377605726455462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bce5ea8ded30b760800000000000000
+      internalID: 7471539872254520497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f18a47ce53c3560800000000000000
+      internalID: 7294764786119090016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_75
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c51bb8dbd5efb1d0800000000000000
+      internalID: -3332692466834139707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8101a45d84cf690800000000000000
+      internalID: -7567093192981473077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff58e23f8e240700800000000000000
+      internalID: 505580250741628916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e6a6c575f2a4660800000000000000
+      internalID: 7370755792404377166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8004b35866d58dff0800000000000000
+      internalID: -11156304165126136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f156f2071a1046260800000000000000
+      internalID: 7089793506271520031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744149fb107297300800000000000000
+      internalID: 250274142758376519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e520ca9e0864e4f10800000000000000
+      internalID: 2255817982849319518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_83
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f1a51f7c5541d10800000000000000
+      internalID: 2095394043870191426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f70c90987bdfb0800000000000000
+      internalID: -4621968030077290137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d747fb9489b9242e0800000000000000
+      internalID: -2142979394300316547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b67fe2629482ba20800000000000000
+      internalID: 3076667259707422386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694a13b24c8b43da0800000000000000
+      internalID: -5965940453681290090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9660020dff1183cf0800000000000000
+      internalID: -272447987049822615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fd18b9145bb7820800000000000000
+      internalID: 2917124477039009632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_90
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ba3a6eff1294c90800000000000000
+      internalID: -7185174347523052731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_91
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cfc6b7fb066d670800000000000000
+      internalID: 8563138117017336983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93820008647faa6d0800000000000000
+      internalID: -2978296321384896455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bddd7ccb9339b1f0800000000000000
+      internalID: -1028734295633699404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e03056a50eba90800000000000000
+      internalID: -7296388134425534078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe1f3c2582289190800000000000000
+      internalID: -7955570786381652231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31956d3b0c3b2180800000000000000
+      internalID: -9139144999845916356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84872cf203973e370800000000000000
+      internalID: 8350651381941696584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2fa4a93853677f0800000000000000
+      internalID: -615245459743902989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c91b24a53686db10800000000000000
+      internalID: 2005938248985811399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_100
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2537b8b71f826d290800000000000000
+      internalID: -7866054681531026606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c949e9fc17efaf70800000000000000
+      internalID: 9200826675379128770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b48830e1239cb0800000000000000
+      internalID: -4858502326098021999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a16bd76e5fb40980800000000000000
+      internalID: -8573517378416320095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_104
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759256e833b8c8db0800000000000000
+      internalID: -4788299250253092521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_105
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d86a35c20793f40800000000000000
+      internalID: 5708717338353110332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca2b5ae2d4467730800000000000000
+      internalID: 3996457392003558093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c958e4e37eca30800000000000000
+      internalID: 4237451726390150594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4124bf387f995c40800000000000000
+      internalID: 5501603758623433039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_109
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035dc88b5c3020e0800000000000000
+      internalID: -2296769446124104954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d163366a9cab4160800000000000000
+      internalID: 7010887024071893458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4968b63810db0760800000000000000
+      internalID: 7425257213066242378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349f77f331f938d0800000000000000
+      internalID: -2865994482346650561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8448d817a86e14bc0800000000000000
+      internalID: -3800503128239012792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c4aa92c6ee24d30800000000000000
+      internalID: 4414352733099412559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6463f95e50456a0800000000000000
+      internalID: -6461533081593035038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b32a2f328602ad0800000000000000
+      internalID: -2729066870582658261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112aede1669e9d800800000000000000
+      internalID: 637797447063478801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2202e94ce5ef320a0800000000000000
+      internalID: -6907397720477130718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b884830c01f4ae0800000000000000
+      internalID: -1563012127910229229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddbfd5f9e42ff2b0800000000000000
+      internalID: -5548675628626100779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069a28d58ebde710800000000000000
+      internalID: 1724243714419365386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29456aa1a818baf10800000000000000
+      internalID: 2282060066345866386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5e7f93350d4ac0800000000000000
+      internalID: -3869430785564057986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6455071c1bb49750800000000000000
+      internalID: 6310874707172611178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_125
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d21541ec4de7790800000000000000
+      internalID: -7530347545347674844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_126
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9826e06c661212aa0800000000000000
+      internalID: -6187627687737138551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_127
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f3be13d57dff7c0800000000000000
+      internalID: -4035269945831243957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_128
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d8775ed6380da0800000000000000
+      internalID: -5978468176756156265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2024b9ef3b3f43630800000000000000
+      internalID: 3906014731233346050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eb877b0a47cf8e0800000000000000
+      internalID: -1658322329157452252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_131
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2de83459c8ac8c60800000000000000
+      internalID: 7821812235490618670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_132
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfad59d46bdca470800000000000000
+      internalID: 8407335830583881654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_133
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa54b04f512a800800000000000000
+      internalID: 622083836435869668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9811d0c347a5190800000000000000
+      internalID: -7972932389039928885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d043a05d7180b0cb0800000000000000
+      internalID: -4896811271383796723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8065b1c66a4d86af0800000000000000
+      internalID: -402838355406268920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea68d7de6fff2f00800000000000000
+      internalID: 1094374086007089892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd7b2bf053821d0800000000000000
+      internalID: -3375389579175011502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109a8b73d064d5f20800000000000000
+      internalID: 3412961115200071937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cb6532f5683aa80800000000000000
+      internalID: -8456767932098757583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5867303f9cd3d5540800000000000000
+      internalID: 4998219099025929861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b700687896f800800000000000000
+      internalID: 645871239348859039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531501e80ecb73f0800000000000000
+      internalID: -901900762827386020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b5b1bcd5a441360800000000000000
+      internalID: 7139413075989060504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_145
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3246cc1a833baf0800000000000000
+      internalID: -381899275826355270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4725fc3f01bfb6a60800000000000000
+      internalID: 7668498840756900468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_147
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139d6558e3e9e5c40800000000000000
+      internalID: 5503009786055547185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849e334cd3c9b8e0800000000000000
+      internalID: -1677094035430402934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467c0c861bcef0f80800000000000000
+      internalID: -8138025754924365980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c17bba2c414ebd0800000000000000
+      internalID: -2601931858376188772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce55f97a15ce2e60800000000000000
+      internalID: 7939499910606708419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1cb50668e35b480800000000000000
+      internalID: -8884125943055269389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b8a82e842c9dd0800000000000000
+      internalID: -2478065501974515047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8cf84b36e2174d0800000000000000
+      internalID: -3138676459534563131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c7d9d39266fc630800000000000000
+      internalID: 3949487725540637731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bd0d1501bb3c1a0800000000000000
+      internalID: -6790378134378063027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblin_scout_v5_weapons_dagger_1_silhouette_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ebea4259c2de60800000000000000
+      internalID: 7985666444562786497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3f5f7dabab98b3540a3838482d18e9de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      goblin_scout_v5_weapons_dagger_1_silhouette_0: -7479257866625478350
+      goblin_scout_v5_weapons_dagger_1_silhouette_1: -5736996530453280047
+      goblin_scout_v5_weapons_dagger_1_silhouette_10: 2112657204322487995
+      goblin_scout_v5_weapons_dagger_1_silhouette_100: -7866054681531026606
+      goblin_scout_v5_weapons_dagger_1_silhouette_101: 9200826675379128770
+      goblin_scout_v5_weapons_dagger_1_silhouette_102: -4858502326098021999
+      goblin_scout_v5_weapons_dagger_1_silhouette_103: -8573517378416320095
+      goblin_scout_v5_weapons_dagger_1_silhouette_104: -4788299250253092521
+      goblin_scout_v5_weapons_dagger_1_silhouette_105: 5708717338353110332
+      goblin_scout_v5_weapons_dagger_1_silhouette_106: 3996457392003558093
+      goblin_scout_v5_weapons_dagger_1_silhouette_107: 4237451726390150594
+      goblin_scout_v5_weapons_dagger_1_silhouette_108: 5501603758623433039
+      goblin_scout_v5_weapons_dagger_1_silhouette_109: -2296769446124104954
+      goblin_scout_v5_weapons_dagger_1_silhouette_11: 8336068409171756807
+      goblin_scout_v5_weapons_dagger_1_silhouette_110: 7010887024071893458
+      goblin_scout_v5_weapons_dagger_1_silhouette_111: 7425257213066242378
+      goblin_scout_v5_weapons_dagger_1_silhouette_112: -2865994482346650561
+      goblin_scout_v5_weapons_dagger_1_silhouette_113: -3800503128239012792
+      goblin_scout_v5_weapons_dagger_1_silhouette_114: 4414352733099412559
+      goblin_scout_v5_weapons_dagger_1_silhouette_115: -6461533081593035038
+      goblin_scout_v5_weapons_dagger_1_silhouette_116: -2729066870582658261
+      goblin_scout_v5_weapons_dagger_1_silhouette_117: 637797447063478801
+      goblin_scout_v5_weapons_dagger_1_silhouette_118: -6907397720477130718
+      goblin_scout_v5_weapons_dagger_1_silhouette_119: -1563012127910229229
+      goblin_scout_v5_weapons_dagger_1_silhouette_12: -6823176748355932367
+      goblin_scout_v5_weapons_dagger_1_silhouette_120: -5548675628626100779
+      goblin_scout_v5_weapons_dagger_1_silhouette_121: 1724243714419365386
+      goblin_scout_v5_weapons_dagger_1_silhouette_122: 2282060066345866386
+      goblin_scout_v5_weapons_dagger_1_silhouette_123: -3869430785564057986
+      goblin_scout_v5_weapons_dagger_1_silhouette_124: 6310874707172611178
+      goblin_scout_v5_weapons_dagger_1_silhouette_125: -7530347545347674844
+      goblin_scout_v5_weapons_dagger_1_silhouette_126: -6187627687737138551
+      goblin_scout_v5_weapons_dagger_1_silhouette_127: -4035269945831243957
+      goblin_scout_v5_weapons_dagger_1_silhouette_128: -5978468176756156265
+      goblin_scout_v5_weapons_dagger_1_silhouette_129: 3906014731233346050
+      goblin_scout_v5_weapons_dagger_1_silhouette_13: -2713607906331898874
+      goblin_scout_v5_weapons_dagger_1_silhouette_130: -1658322329157452252
+      goblin_scout_v5_weapons_dagger_1_silhouette_131: 7821812235490618670
+      goblin_scout_v5_weapons_dagger_1_silhouette_132: 8407335830583881654
+      goblin_scout_v5_weapons_dagger_1_silhouette_133: 622083836435869668
+      goblin_scout_v5_weapons_dagger_1_silhouette_134: -7972932389039928885
+      goblin_scout_v5_weapons_dagger_1_silhouette_135: -4896811271383796723
+      goblin_scout_v5_weapons_dagger_1_silhouette_136: -402838355406268920
+      goblin_scout_v5_weapons_dagger_1_silhouette_137: 1094374086007089892
+      goblin_scout_v5_weapons_dagger_1_silhouette_138: -3375389579175011502
+      goblin_scout_v5_weapons_dagger_1_silhouette_139: 3412961115200071937
+      goblin_scout_v5_weapons_dagger_1_silhouette_14: -8647906347059558003
+      goblin_scout_v5_weapons_dagger_1_silhouette_140: -8456767932098757583
+      goblin_scout_v5_weapons_dagger_1_silhouette_141: 4998219099025929861
+      goblin_scout_v5_weapons_dagger_1_silhouette_142: 645871239348859039
+      goblin_scout_v5_weapons_dagger_1_silhouette_143: -901900762827386020
+      goblin_scout_v5_weapons_dagger_1_silhouette_144: 7139413075989060504
+      goblin_scout_v5_weapons_dagger_1_silhouette_145: -381899275826355270
+      goblin_scout_v5_weapons_dagger_1_silhouette_146: 7668498840756900468
+      goblin_scout_v5_weapons_dagger_1_silhouette_147: 5503009786055547185
+      goblin_scout_v5_weapons_dagger_1_silhouette_148: -1677094035430402934
+      goblin_scout_v5_weapons_dagger_1_silhouette_149: -8138025754924365980
+      goblin_scout_v5_weapons_dagger_1_silhouette_15: -841526633598840643
+      goblin_scout_v5_weapons_dagger_1_silhouette_150: -2601931858376188772
+      goblin_scout_v5_weapons_dagger_1_silhouette_151: 7939499910606708419
+      goblin_scout_v5_weapons_dagger_1_silhouette_152: -8884125943055269389
+      goblin_scout_v5_weapons_dagger_1_silhouette_153: -2478065501974515047
+      goblin_scout_v5_weapons_dagger_1_silhouette_154: -3138676459534563131
+      goblin_scout_v5_weapons_dagger_1_silhouette_155: 3949487725540637731
+      goblin_scout_v5_weapons_dagger_1_silhouette_156: -6790378134378063027
+      goblin_scout_v5_weapons_dagger_1_silhouette_157: 7985666444562786497
+      goblin_scout_v5_weapons_dagger_1_silhouette_16: -1766470061887690548
+      goblin_scout_v5_weapons_dagger_1_silhouette_17: -371795268095643475
+      goblin_scout_v5_weapons_dagger_1_silhouette_18: 8855141483102025526
+      goblin_scout_v5_weapons_dagger_1_silhouette_19: 1614221690213079029
+      goblin_scout_v5_weapons_dagger_1_silhouette_2: 435278009657934794
+      goblin_scout_v5_weapons_dagger_1_silhouette_20: 8736442124035392504
+      goblin_scout_v5_weapons_dagger_1_silhouette_21: -4274776170672958890
+      goblin_scout_v5_weapons_dagger_1_silhouette_22: 1423976307750832691
+      goblin_scout_v5_weapons_dagger_1_silhouette_23: -9124498675691305740
+      goblin_scout_v5_weapons_dagger_1_silhouette_24: 3931344041070728745
+      goblin_scout_v5_weapons_dagger_1_silhouette_25: 3830161097257889602
+      goblin_scout_v5_weapons_dagger_1_silhouette_26: -2977464137685810575
+      goblin_scout_v5_weapons_dagger_1_silhouette_27: 3911297254824964757
+      goblin_scout_v5_weapons_dagger_1_silhouette_28: -778237619736839648
+      goblin_scout_v5_weapons_dagger_1_silhouette_29: -4951068301771966927
+      goblin_scout_v5_weapons_dagger_1_silhouette_3: -7654236930426433750
+      goblin_scout_v5_weapons_dagger_1_silhouette_30: 8065894729186405255
+      goblin_scout_v5_weapons_dagger_1_silhouette_31: -7315194779961977474
+      goblin_scout_v5_weapons_dagger_1_silhouette_32: 5909617021410739323
+      goblin_scout_v5_weapons_dagger_1_silhouette_33: 7609575908445561556
+      goblin_scout_v5_weapons_dagger_1_silhouette_34: 3807444678884562823
+      goblin_scout_v5_weapons_dagger_1_silhouette_35: -8436742271224579796
+      goblin_scout_v5_weapons_dagger_1_silhouette_36: 4865515389518276345
+      goblin_scout_v5_weapons_dagger_1_silhouette_37: -6417703651980091245
+      goblin_scout_v5_weapons_dagger_1_silhouette_38: 7685930522514296807
+      goblin_scout_v5_weapons_dagger_1_silhouette_39: 6132457590001392631
+      goblin_scout_v5_weapons_dagger_1_silhouette_4: -6737055827418472985
+      goblin_scout_v5_weapons_dagger_1_silhouette_40: -8238590007584537888
+      goblin_scout_v5_weapons_dagger_1_silhouette_41: -1013248881092714607
+      goblin_scout_v5_weapons_dagger_1_silhouette_42: 225629240225453804
+      goblin_scout_v5_weapons_dagger_1_silhouette_43: 2015478299646652927
+      goblin_scout_v5_weapons_dagger_1_silhouette_44: -2689876675960188639
+      goblin_scout_v5_weapons_dagger_1_silhouette_45: -1965202677566663673
+      goblin_scout_v5_weapons_dagger_1_silhouette_46: -648198506901645342
+      goblin_scout_v5_weapons_dagger_1_silhouette_47: -6709281242093385499
+      goblin_scout_v5_weapons_dagger_1_silhouette_48: -6222198904098136938
+      goblin_scout_v5_weapons_dagger_1_silhouette_49: -349972675308836069
+      goblin_scout_v5_weapons_dagger_1_silhouette_5: 1376999922063313554
+      goblin_scout_v5_weapons_dagger_1_silhouette_50: -4517294876385784301
+      goblin_scout_v5_weapons_dagger_1_silhouette_51: 706630164158895947
+      goblin_scout_v5_weapons_dagger_1_silhouette_52: -2369935645707946787
+      goblin_scout_v5_weapons_dagger_1_silhouette_53: 1265496569915743764
+      goblin_scout_v5_weapons_dagger_1_silhouette_54: -7537615330316216767
+      goblin_scout_v5_weapons_dagger_1_silhouette_55: 8076158980112636008
+      goblin_scout_v5_weapons_dagger_1_silhouette_56: 4617162739967650336
+      goblin_scout_v5_weapons_dagger_1_silhouette_57: 920487652524069391
+      goblin_scout_v5_weapons_dagger_1_silhouette_58: 8464267823719842545
+      goblin_scout_v5_weapons_dagger_1_silhouette_59: -2773823266409563182
+      goblin_scout_v5_weapons_dagger_1_silhouette_6: -6666806410245663424
+      goblin_scout_v5_weapons_dagger_1_silhouette_60: 246205559624638990
+      goblin_scout_v5_weapons_dagger_1_silhouette_61: 2747521525949317648
+      goblin_scout_v5_weapons_dagger_1_silhouette_62: 5354090997090856528
+      goblin_scout_v5_weapons_dagger_1_silhouette_63: -5447232656979429470
+      goblin_scout_v5_weapons_dagger_1_silhouette_64: -5611770327412763735
+      goblin_scout_v5_weapons_dagger_1_silhouette_65: 1767575270224398325
+      goblin_scout_v5_weapons_dagger_1_silhouette_66: 6504560743312435620
+      goblin_scout_v5_weapons_dagger_1_silhouette_67: 5666667818713435602
+      goblin_scout_v5_weapons_dagger_1_silhouette_68: -3459798176964861719
+      goblin_scout_v5_weapons_dagger_1_silhouette_69: -5713780018608436415
+      goblin_scout_v5_weapons_dagger_1_silhouette_7: -5542224449169367388
+      goblin_scout_v5_weapons_dagger_1_silhouette_70: -3518230170638329303
+      goblin_scout_v5_weapons_dagger_1_silhouette_71: 8987855125640393613
+      goblin_scout_v5_weapons_dagger_1_silhouette_72: -8099377605726455462
+      goblin_scout_v5_weapons_dagger_1_silhouette_73: 7471539872254520497
+      goblin_scout_v5_weapons_dagger_1_silhouette_74: 7294764786119090016
+      goblin_scout_v5_weapons_dagger_1_silhouette_75: -3332692466834139707
+      goblin_scout_v5_weapons_dagger_1_silhouette_76: -7567093192981473077
+      goblin_scout_v5_weapons_dagger_1_silhouette_77: 505580250741628916
+      goblin_scout_v5_weapons_dagger_1_silhouette_78: 7370755792404377166
+      goblin_scout_v5_weapons_dagger_1_silhouette_79: -11156304165126136
+      goblin_scout_v5_weapons_dagger_1_silhouette_8: 5538241721995090597
+      goblin_scout_v5_weapons_dagger_1_silhouette_80: 7089793506271520031
+      goblin_scout_v5_weapons_dagger_1_silhouette_81: 250274142758376519
+      goblin_scout_v5_weapons_dagger_1_silhouette_82: 2255817982849319518
+      goblin_scout_v5_weapons_dagger_1_silhouette_83: 2095394043870191426
+      goblin_scout_v5_weapons_dagger_1_silhouette_84: -4621968030077290137
+      goblin_scout_v5_weapons_dagger_1_silhouette_85: -2142979394300316547
+      goblin_scout_v5_weapons_dagger_1_silhouette_86: 3076667259707422386
+      goblin_scout_v5_weapons_dagger_1_silhouette_87: -5965940453681290090
+      goblin_scout_v5_weapons_dagger_1_silhouette_88: -272447987049822615
+      goblin_scout_v5_weapons_dagger_1_silhouette_89: 2917124477039009632
+      goblin_scout_v5_weapons_dagger_1_silhouette_9: -358202434567090125
+      goblin_scout_v5_weapons_dagger_1_silhouette_90: -7185174347523052731
+      goblin_scout_v5_weapons_dagger_1_silhouette_91: 8563138117017336983
+      goblin_scout_v5_weapons_dagger_1_silhouette_92: -2978296321384896455
+      goblin_scout_v5_weapons_dagger_1_silhouette_93: -1028734295633699404
+      goblin_scout_v5_weapons_dagger_1_silhouette_94: -7296388134425534078
+      goblin_scout_v5_weapons_dagger_1_silhouette_95: -7955570786381652231
+      goblin_scout_v5_weapons_dagger_1_silhouette_96: -9139144999845916356
+      goblin_scout_v5_weapons_dagger_1_silhouette_97: 8350651381941696584
+      goblin_scout_v5_weapons_dagger_1_silhouette_98: -615245459743902989
+      goblin_scout_v5_weapons_dagger_1_silhouette_99: 2005938248985811399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
