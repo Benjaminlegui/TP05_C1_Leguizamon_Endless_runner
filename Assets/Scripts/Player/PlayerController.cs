@@ -36,8 +36,7 @@ public class PlayerController : MonoBehaviour
     {
         if (gameManager == null || !gameManager.IsPlaying || Time.timeScale == 0f || Keyboard.current == null) return;
         var keyboard = Keyboard.current;
-        if (keyboard.spaceKey.wasPressedThisFrame || keyboard.wKey.wasPressedThisFrame ||
-            keyboard.upArrowKey.wasPressedThisFrame) jumpRequested = true;
+        if (playerData.jumpKey != Key.None && keyboard[playerData.jumpKey].wasPressedThisFrame) jumpRequested = true;
     }
 
     private void FixedUpdate()
