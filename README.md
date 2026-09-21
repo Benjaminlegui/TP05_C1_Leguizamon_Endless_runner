@@ -90,14 +90,28 @@ Assets/
 ├── Prefabs/        FloorObstacle, SkyObstacle
 ├── Scenes/         Game.unity
 └── Scripts/
-    ├── GameManager.cs         State machine, score, speed ramp
-    ├── PlayerController.cs    Jump input, ground check, collisions
-    ├── UIManager.cs           HUD and panels
-    ├── ObstacleS/             Spawner, pooling, movement, scoring, despawn
-    └── Audio/                 Mixer control and volume settings UI
+    ├── Globals/       GameManager — state machine, score, speed ramp
+    ├── Player/        Jump input and ground check, landing particles
+    ├── Obstacles/     Spawner, pooling, movement, scoring, despawn
+    ├── UI/            HUD and panels
+    └── Audio/         Mixer control and volume settings UI
 ```
 
 ## Running the project
 
 Open the project in Unity, load `Assets/Scenes/Game.unity`, and press Play. Input uses the
 Unity Input System package.
+
+## Credits
+
+### Art
+
+- Player sprite — *Goblin Scout Silhouette* by
+  [zneeke](https://zneeke.itch.io/goblin-scout-silhouette)
+- Obstacle sprites — *Abyssal Planes Asset Pack 32x32* by
+  [deepdivegamestudio](https://deepdivegamestudio.itch.io/abyssal-planes-asset-pack-32x32)
+
+### Audio
+
+- Lose sound — *080047_Lose_Funny_Retro_Video Game* by
+  [freesound_community](https://pixabay.com/users/freesound_community-46691455/), via Pixabay
