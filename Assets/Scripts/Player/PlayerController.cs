@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(Rigidbody2D), typeof(BoxCollider2D))]
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField, Min(0.1f)] private float jumpSpeed = 9f;
+    [SerializeField] private PlayerData playerData;
     [SerializeField] private Collider2D ground;
     private Rigidbody2D body;
     private BoxCollider2D playerCollider;
@@ -22,7 +22,7 @@ public class PlayerController : MonoBehaviour
         playerCollider = GetComponent<BoxCollider2D>();
         startPosition = body.position;
         body.constraints = RigidbodyConstraints2D.FreezePositionX | RigidbodyConstraints2D.FreezeRotation;
-        body.gravityScale = 3f;
+        body.gravityScale = playerData.gravityScale;
         body.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
     }
 
@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
         if (gameManager == null || !gameManager.IsPlaying) return;
         if (jumpRequested && ground != null && playerCollider.IsTouching(ground) && body.linearVelocity.y <= 0.1f)
         {
-            body.linearVelocity = new Vector2(0f, jumpSpeed);
+            body.linearVelocity = new Vector2(0f, playerData.jumpSpeed);
             waitingForLanding = true;
             Jumped?.Invoke();
         }
