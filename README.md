@@ -16,9 +16,12 @@ when you hit something.
 
 | Action | Keys |
 | --- | --- |
-| Jump | `Space`, `W`, or `Up Arrow` |
+| Jump | `Space` (rebindable — see below) |
 | Start / Restart | `Enter`, or the on-screen **Play** / **Retry** button |
 | Audio settings | **Settings** button (pauses the game while open) |
+
+The jump key is stored in the `PlayerData` asset (`Assets/Data/PlayerData.asset`) along with
+jump speed and gravity scale, so it can be changed in the Inspector without touching code.
 
 Jumping only works while you are standing on the ground, so you cannot chain jumps in mid-air.
 A jump is committed the moment you leave the floor: you have to read the next obstacle before
@@ -87,12 +90,14 @@ the run and blocks input until you close it.
 Assets/
 ├── Art/            Sprites, music, and SFX
 ├── Audio/          RunnerAudio mixer
+├── Data/           PlayerData asset (jump key, jump speed, gravity)
 ├── Prefabs/        FloorObstacle, SkyObstacle
 ├── Scenes/         Game.unity
 └── Scripts/
     ├── Globals/       GameManager — state machine, score, speed ramp
     ├── Player/        Jump input and ground check, landing particles
     ├── Obstacles/     Spawner, pooling, movement, scoring, despawn
+    ├── SO/            ScriptableObject definitions (PlayerData)
     ├── UI/            HUD and panels
     └── Audio/         Mixer control and volume settings UI
 ```
