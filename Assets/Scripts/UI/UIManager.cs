@@ -30,8 +30,8 @@ public class UIManager : MonoBehaviour
 
     private void Refresh()
     {
-        scoreText.text = $"{scoreLabel}: {gameManager.Score}";
-        speedText.text = $"{speedLabel}: {gameManager.CurrentSpeed}";
+        scoreText.text = $"{scoreLabel} {gameManager.Score}";
+        speedText.text = $"{speedLabel} {gameManager.CurrentSpeed:0.0}";
         startPanel.SetActive(gameManager.State == GameManager.GameState.Ready);
         gameOverPanel.SetActive(gameManager.State == GameManager.GameState.GameOver);
     }
